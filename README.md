@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karthick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="https://media.licdn.com/dms/image/D4D03AQEnmUiQ5fFuuA/profile-displayphoto-shrink_800_800/0/1679594846810?e=1706140800&v=beta&t=yTGINRHrfKDqCiuzi1qWIo53QzHqVuAD9upxuVyj6sk" alt="Coding" />
+<img align="right" src="https://media.licdn.com/dms/image/D4D03AQEnmUiQ5fFuuA/profile-displayphoto-shrink_800_800/0/1679594846810?e=1706140800&v=beta&t=yTGINRHrfKDqCiuzi1qWIo53QzHqVuAD9upxuVyj6sk" alt="Coding" width='5rem' hight='auto' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthickseetha&label=Profile%20views&color=0e75b6&style=flat" alt="karthickseetha" /> </p>
 
