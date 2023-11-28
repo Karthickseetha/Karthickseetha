@@ -1,9 +1,9 @@
-
-[![Masterhead]()
-<h1 align="center">Hi 👋, I'm Karthick</h1>
+  <h1 align="center">Hi 👋, I'm Karthick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h3>I’m currently working on <a href="https://coruscating-malabi-284993.netlify.app/">My Portfolio</a></h3>
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU" alt="Coding" width='5rem' hight='auto' />
+
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthickseetha&label=Profile%20views&color=0e75b6&style=flat" alt="karthickseetha" /> </p>
 
