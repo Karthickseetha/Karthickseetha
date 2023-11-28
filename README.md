@@ -1,5 +1,5 @@
 
-[![Masterhead](https://onleitechnologies.com/wp-content/uploads/2021/12/Web-Development-Company-USA-removebg-preview.png)
+[![Masterhead](https://media.licdn.com/dms/image/D4D03AQEnmUiQ5fFuuA/profile-displayphoto-shrink_800_800/0/1679594846810?e=1706140800&v=beta&t=yTGINRHrfKDqCiuzi1qWIo53QzHqVuAD9upxuVyj6sk)
 <h1 align="center">Hi 👋, I'm Karthick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
